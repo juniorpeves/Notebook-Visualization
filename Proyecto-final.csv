@@ -1,4 +1,4 @@
-Year,Date Of Incident,Route,Operator,Group Name,Bus Garage,Borough,Injury Result Description,Incident Event Type,Victim_Category,Victims Sex,Victims Age
+Year,Date Of Incident,Route,Operator,Group Name,Bus Garage,Borough,Injury Result Description,Incident Event Type,Victim_Category,Victims_Sex,Victims_Age
 2015,01/01/2015,1,London General,Go-Ahead,Garage Not Available,Southwark,Injuries treated on scene,Onboard Injuries,Passenger,Male,Child
 2015,01/01/2015,4,Metroline,Metroline,Garage Not Available,Islington,Injuries treated on scene,Onboard Injuries,Passenger,Male,Unknown
 2015,01/01/2015,5,East London,Stagecoach,Garage Not Available,Havering,Taken to Hospital – Reported Serious Injury or Severity Unknown,Onboard Injuries,Passenger,Male,Elderly
@@ -9275,7 +9275,7 @@ Year,Date Of Incident,Route,Operator,Group Name,Bus Garage,Borough,Injury Result
 2016,01/07/2016,2,Arriva London South,Arriva London,Norwood,Lambeth,Injuries treated on scene,Slip Trip Fall,Passenger,Female,Adult
 2016,01/07/2016,2,Arriva London South,Arriva London,Norwood,Westminster,Taken to Hospital – Reported Serious Injury or Severity Unknown,Slip Trip Fall,Passenger,Female,Adult
 2016,01/07/2016,4,Metroline,Metroline,Holloway,Islington,Injuries treated on scene,Collision Incident,Passenger,Female,Adult
-2016,01/07/2016,4,Metroline,Metroline,Holloway,Islington,Injuries treated on scene,Collision Incident,Cyclist ,Female,Adult
+2016,01/07/2016,4,Metroline,Metroline,Holloway,Islington,Injuries treated on scene,Collision Incident,Cyclist,Female,Adult
 2016,01/07/2016,4,Metroline,Metroline,Holloway,Islington,Reported Minor Injury - Treated at Hospital,Collision Incident,Passenger,Male,Unknown
 2016,01/07/2016,5,East London,Stagecoach,Barking (East London Buses),Barking & Dagenham,Injuries treated on scene,Slip Trip Fall,Passenger,Female,Unknown
 2016,01/07/2016,5,East London,Stagecoach,Barking (East London Buses),Barking & Dagenham,Injuries treated on scene,Slip Trip Fall,Passenger,Unknown,Child
@@ -9296,7 +9296,7 @@ Year,Date Of Incident,Route,Operator,Group Name,Bus Garage,Borough,Injury Result
 2016,01/07/2016,13,London Sovereign,London United,Edgware (Sovereign),Westminster,Injuries treated on scene,Slip Trip Fall,Passenger,Male,Adult
 2016,01/07/2016,13,London Sovereign,London United,Edgware (Sovereign),Westminster,Reported Minor Injury - Treated at Hospital,Slip Trip Fall,Passenger,Female,Adult
 2016,01/07/2016,13,London Sovereign,London United,Edgware (Sovereign),Westminster,Reported Minor Injury - Treated at Hospital,Slip Trip Fall,Passenger,Female,Elderly
-2016,01/07/2016,14,London General,Go-Ahead,Putney,Wandsworth,Injuries treated on scene,Collision Incident,Cyclist ,Male,Adult
+2016,01/07/2016,14,London General,Go-Ahead,Putney,Wandsworth,Injuries treated on scene,Collision Incident,Cyclist,Male,Adult
 2016,01/07/2016,15,East London,Stagecoach,Bow,Tower Hamlets,Injuries treated on scene,Personal Injury,Passenger,Female,Child
 2016,01/07/2016,15,East London,Stagecoach,Bow,Tower Hamlets,Injuries treated on scene,Personal Injury,Passenger,Female,Unknown
 2016,01/07/2016,16,Metroline,Metroline,Cricklewood,Brent,Injuries treated on scene,Safety Critical Failure,Passenger,Female,Unknown
@@ -9341,7 +9341,7 @@ Year,Date Of Incident,Route,Operator,Group Name,Bus Garage,Borough,Injury Result
 2016,01/07/2016,37,Metrobus,Go-Ahead,Peckham,Southwark,Injuries treated on scene,Collision Incident,Pedestrian,Male,Adult
 2016,01/07/2016,37,Metrobus,Go-Ahead,Peckham,Southwark,Injuries treated on scene,Personal Injury,Member Of Public,Male,Adult
 2016,01/07/2016,37,Metrobus,Go-Ahead,Peckham,Southwark,Injuries treated on scene,Slip Trip Fall,Passenger,Male,Child
-2016,01/07/2016,37,Metrobus,Go-Ahead,Peckham,Wandsworth,Injuries treated on scene,Collision Incident,Cyclist ,Female,Adult
+2016,01/07/2016,37,Metrobus,Go-Ahead,Peckham,Wandsworth,Injuries treated on scene,Collision Incident,Cyclist,Female,Adult
 2016,01/07/2016,37,Metrobus,Go-Ahead,Peckham,Wandsworth,Injuries treated on scene,Slip Trip Fall,Passenger,Female,Adult
 2016,01/07/2016,38,Arriva London North,Arriva London,Clapton,Camden,Injuries treated on scene,Slip Trip Fall,Passenger,Female,Unknown
 2016,01/07/2016,38,Arriva London North,Arriva London,Clapton,Not specified,Injuries treated on scene,Personal Injury,Passenger,Female,Unknown
@@ -9382,7 +9382,7 @@ Year,Date Of Incident,Route,Operator,Group Name,Bus Garage,Borough,Injury Result
 2016,01/07/2016,63,Metrobus,Go-Ahead,Peckham,Southwark,Injuries treated on scene,Personal Injury,Passenger,Female,Adult
 2016,01/07/2016,63,Metrobus,Go-Ahead,Peckham,Southwark,Injuries treated on scene,Slip Trip Fall,Passenger,Male,Adult
 2016,01/07/2016,63,Metrobus,Go-Ahead,Peckham,Southwark,Reported Minor Injury - Treated at Hospital,Collision Incident,Pedestrian,Female,Adult
-2016,01/07/2016,63,Metrobus,Go-Ahead,Peckham,Southwark,Reported Minor Injury - Treated at Hospital,Collision Incident,Cyclist ,Male,Adult
+2016,01/07/2016,63,Metrobus,Go-Ahead,Peckham,Southwark,Reported Minor Injury - Treated at Hospital,Collision Incident,Cyclist,Male,Adult
 2016,01/07/2016,64,Metrobus,Go-Ahead,Croydon (Metrobus),Croydon,Injuries treated on scene,Personal Injury,Passenger,Female,Adult
 2016,01/07/2016,64,Metrobus,Go-Ahead,Croydon (Metrobus),Croydon,Taken to Hospital – Reported Serious Injury or Severity Unknown,Personal Injury,Passenger,Female,Adult
 2016,01/07/2016,64,Metrobus,Go-Ahead,Croydon (Metrobus),Croydon,Taken to Hospital – Reported Serious Injury or Severity Unknown,Personal Injury,Passenger,Female,Adult
@@ -9402,13 +9402,13 @@ Year,Date Of Incident,Route,Operator,Group Name,Bus Garage,Borough,Injury Result
 2016,01/07/2016,69,East London,Tower Transit,Lea Interchange,Waltham Forest,Injuries treated on scene,Slip Trip Fall,Passenger,Female,Adult
 2016,01/07/2016,70,Tower Transit,Tower Transit,Westbourne Park,Kensington & Chelsea,Injuries treated on scene,Slip Trip Fall,Passenger,Female,Adult
 2016,01/07/2016,71,London United,London United,Tolworth,Kingston upon Thames,Injuries treated on scene,Personal Injury,Bus Driver,Male,Adult
-2016,01/07/2016,72,London United,London United,Shepherds Bush,Hammersmith & Fulham,Injuries treated on scene,Collision Incident,Cyclist ,Female,Adult
+2016,01/07/2016,72,London United,London United,Shepherds Bush,Hammersmith & Fulham,Injuries treated on scene,Collision Incident,Cyclist,Female,Adult
 2016,01/07/2016,72,London United,London United,Shepherds Bush,Hammersmith & Fulham,Injuries treated on scene,Personal Injury,Passenger,Female,Elderly
 2016,01/07/2016,73,Arriva London North,Arriva London,Stamford Hill,Islington,Injuries treated on scene,Personal Injury,Passenger,Female,Child
 2016,01/07/2016,73,Arriva London North,Arriva London,Stamford Hill,Not specified,Injuries treated on scene,Slip Trip Fall,Passenger,Female,Unknown
 2016,01/07/2016,73,Arriva London North,Arriva London,Stamford Hill,Westminster,Taken to Hospital – Reported Serious Injury or Severity Unknown,Slip Trip Fall,Passenger,Female,Adult
 2016,01/07/2016,74,London General,Go-Ahead,Putney,Kensington & Chelsea,Injuries treated on scene,Slip Trip Fall,Passenger,Female,Adult
-2016,01/07/2016,75,Selkent,Stagecoach,Catford,Croydon,Reported Minor Injury - Treated at Hospital,Collision Incident,Cyclist ,Male,Unknown
+2016,01/07/2016,75,Selkent,Stagecoach,Catford,Croydon,Reported Minor Injury - Treated at Hospital,Collision Incident,Cyclist,Male,Unknown
 2016,01/07/2016,75,Selkent,Stagecoach,Catford,Croydon,Reported Minor Injury - Treated at Hospital,Slip Trip Fall,Passenger,Male,Child
 2016,01/07/2016,78,Arriva London North,Arriva London,Ash Grove (Arriva),Southwark,Taken to Hospital – Reported Serious Injury or Severity Unknown,Slip Trip Fall,Passenger,Female,Adult
 2016,01/07/2016,83,Metroline West,Metroline,Alperton,Ealing,Injuries treated on scene,Personal Injury,Passenger,Female,Elderly
@@ -9428,7 +9428,7 @@ Year,Date Of Incident,Route,Operator,Group Name,Bus Garage,Borough,Injury Result
 2016,01/07/2016,91,Metroline,Metroline,Holloway,Enfield,Injuries treated on scene,Slip Trip Fall,Passenger,Female,Adult
 2016,01/07/2016,92,Metroline West,Metroline,Greenford (Metroline),Ealing,Taken to Hospital – Reported Serious Injury or Severity Unknown,Slip Trip Fall,Passenger,Male,Adult
 2016,01/07/2016,94,London United,London United,Shepherds Bush,Westminster,Reported Minor Injury - Treated at Hospital,Slip Trip Fall,Passenger,Female,Adult
-2016,01/07/2016,96,Selkent,Stagecoach,Plumstead,Greenwich,Injuries treated on scene,Collision Incident,Cyclist ,Male,Unknown
+2016,01/07/2016,96,Selkent,Stagecoach,Plumstead,Greenwich,Injuries treated on scene,Collision Incident,Cyclist,Male,Unknown
 2016,01/07/2016,96,Selkent,Stagecoach,Plumstead,Greenwich,Reported Minor Injury - Treated at Hospital,Slip Trip Fall,Passenger,Female,Adult
 2016,01/07/2016,96,Selkent,Stagecoach,Plumstead,Greenwich,Reported Minor Injury - Treated at Hospital,Slip Trip Fall,Passenger,Female,Adult
 2016,01/07/2016,96,Selkent,Stagecoach,Plumstead,Greenwich,Reported Minor Injury - Treated at Hospital,Slip Trip Fall,Passenger,Female,Adult
@@ -9607,7 +9607,7 @@ Year,Date Of Incident,Route,Operator,Group Name,Bus Garage,Borough,Injury Result
 2016,01/07/2016,237,Metroline,Metroline,Brentford,Hounslow,Injuries treated on scene,Collision Incident,Passenger,Male,Unknown
 2016,01/07/2016,238,East London,Stagecoach,West Ham,Newham,Injuries treated on scene,Slip Trip Fall,Passenger,Unknown,Unknown
 2016,01/07/2016,238,East London,Stagecoach,West Ham,Newham,Reported Minor Injury - Treated at Hospital,Collision Incident,Bus Driver,Male,Adult
-2016,01/07/2016,242,Arriva London North,Arriva London,Clapton,Camden,Injuries treated on scene,Collision Incident,Cyclist ,Female,Adult
+2016,01/07/2016,242,Arriva London North,Arriva London,Clapton,Camden,Injuries treated on scene,Collision Incident,Cyclist,Female,Adult
 2016,01/07/2016,243,Arriva London North,Arriva London,Tottenham,Not specified,Injuries treated on scene,Personal Injury,Passenger,Male,Adult
 2016,01/07/2016,243,Arriva London North,Arriva London,Tottenham,Not specified,Taken to Hospital – Reported Serious Injury or Severity Unknown,Collision Incident,Pedestrian,Female,Adult
 2016,01/07/2016,243,Arriva London North,Arriva London,Tottenham,Not specified,Taken to Hospital – Reported Serious Injury or Severity Unknown,Slip Trip Fall,Passenger,Female,Adult
@@ -9754,7 +9754,7 @@ Year,Date Of Incident,Route,Operator,Group Name,Bus Garage,Borough,Injury Result
 2016,01/07/2016,N18,Metroline West,Metroline,Willesden Junction,Brent,Injuries treated on scene,Personal Injury,Passenger,Female,Adult
 2016,01/07/2016,N207,Metroline West,Metroline,Hayes (Metroline),Ealing,Reported Minor Injury - Treated at Hospital,Slip Trip Fall,Passenger,Male,Adult
 2016,01/07/2016,N5,Metroline,Metroline,Edgware (Metroline),Barnet,Reported Minor Injury - Treated at Hospital,Collision Incident,Passenger,Female,Elderly
-2016,01/07/2016,N55,East London,Stagecoach,Leyton,Camden,Injuries treated on scene,Collision Incident,Cyclist ,Male,Unknown
+2016,01/07/2016,N55,East London,Stagecoach,Leyton,Camden,Injuries treated on scene,Collision Incident,Cyclist,Male,Unknown
 2016,01/07/2016,OOS,Arriva London North,Arriva London,Wood Green,Not specified,Injuries treated on scene,Personal Injury,Bus Driver,Male,Adult
 2016,01/07/2016,OOS,East London,Stagecoach,Barking (East London Buses),None London Borough,Injuries treated on scene,Personal Injury,Bus Driver,Female,Adult
 2016,01/07/2016,OOS,East London,Stagecoach,Catford,Lewisham,Injuries treated on scene,Personal Injury,Bus Driver,Male,Adult
@@ -9772,7 +9772,7 @@ Year,Date Of Incident,Route,Operator,Group Name,Bus Garage,Borough,Injury Result
 2016,01/07/2016,P13,Abellio London,Abellio,Beddington (Abellio London),Lambeth,Injuries treated on scene,Slip Trip Fall,Passenger,Female,Elderly
 2016,01/07/2016,P5,London Central,Go-Ahead,Camberwell,Lambeth,Injuries treated on scene,Personal Injury,Passenger,Female,Elderly
 2016,01/07/2016,R11,Metrobus,Go-Ahead,Orpington (Metrobus),Bexley,Taken to Hospital – Reported Serious Injury or Severity Unknown,Personal Injury,Passenger,Male,Elderly
-2016,01/07/2016,R70,Abellio West,Abellio,Twickenham (Abellio London W),Richmond Upon Thames,Taken to Hospital – Reported Serious Injury or Severity Unknown,Collision Incident,Cyclist ,Female,Child
+2016,01/07/2016,R70,Abellio West,Abellio,Twickenham (Abellio London W),Richmond Upon Thames,Taken to Hospital – Reported Serious Injury or Severity Unknown,Collision Incident,Cyclist,Female,Child
 2016,01/07/2016,RR,Arriva London South,Arriva London,Croydon (Arriva),Not specified,Taken to Hospital – Reported Serious Injury or Severity Unknown,Collision Incident,Pedestrian,Male,Adult
 2016,01/07/2016,RR,Arriva London South,Arriva London,Norwood,Not specified,Injuries treated on scene,Slip Trip Fall,Passenger,Female,Elderly
 2016,01/07/2016,U2,Metroline West,Metroline,Uxbridge,Hillingdon,Injuries treated on scene,Personal Injury,Passenger,Female,Adult
@@ -9793,7 +9793,7 @@ Year,Date Of Incident,Route,Operator,Group Name,Bus Garage,Borough,Injury Result
 2016,01/08/2016,5,East London,Stagecoach,Barking (East London Buses),None London Borough,Reported Minor Injury - Treated at Hospital,Personal Injury,Passenger,Female,Adult
 2016,01/08/2016,6,Metroline,Metroline,Willesden,Westminster,Reported Minor Injury - Treated at Hospital,Collision Incident,Pedestrian,Male,Elderly
 2016,01/08/2016,6,Metroline,Metroline,Willesden,Westminster,Taken to Hospital – Reported Serious Injury or Severity Unknown,Collision Incident,3rd Party driver / Occupant,Male,Adult
-2016,01/08/2016,8,East London,Stagecoach,Bow,City of London,Injuries treated on scene,Collision Incident,Cyclist ,Unknown,Unknown
+2016,01/08/2016,8,East London,Stagecoach,Bow,City of London,Injuries treated on scene,Collision Incident,Cyclist,Unknown,Unknown
 2016,01/08/2016,8,East London,Stagecoach,Bow,Waltham Forest,Injuries treated on scene,Slip Trip Fall,Passenger,Female,Adult
 2016,01/08/2016,10,London United,London United,Stamford Brook,Camden,Reported Minor Injury - Treated at Hospital,Personal Injury,Passenger,Female,Adult
 2016,01/08/2016,10,London United,London United,Stamford Brook,Hammersmith & Fulham,Taken to Hospital – Reported Serious Injury or Severity Unknown,Activity Incident Event,Passenger,Male,Adult
@@ -9863,7 +9863,7 @@ Year,Date Of Incident,Route,Operator,Group Name,Bus Garage,Borough,Injury Result
 2016,01/08/2016,51,Selkent,Stagecoach,Plumstead,Greenwich,Injuries treated on scene,Personal Injury,Passenger,Female,Unknown
 2016,01/08/2016,51,Selkent,Stagecoach,Plumstead,Greenwich,Injuries treated on scene,Slip Trip Fall,Passenger,Male,Unknown
 2016,01/08/2016,52,Metroline,Metroline,Willesden,Westminster,Injuries treated on scene,Personal Injury,Bus Driver,Male,Adult
-2016,01/08/2016,53,Selkent,Stagecoach,Plumstead,Greenwich,Injuries treated on scene,Collision Incident,Cyclist ,Female,Unknown
+2016,01/08/2016,53,Selkent,Stagecoach,Plumstead,Greenwich,Injuries treated on scene,Collision Incident,Cyclist,Female,Unknown
 2016,01/08/2016,53,Selkent,Stagecoach,Plumstead,Greenwich,Injuries treated on scene,Personal Injury,Passenger,Female,Unknown
 2016,01/08/2016,53,Selkent,Stagecoach,Plumstead,Greenwich,Injuries treated on scene,Personal Injury,Passenger,Male,Unknown
 2016,01/08/2016,53,Selkent,Stagecoach,Plumstead,Greenwich,Injuries treated on scene,Personal Injury,Passenger,Unknown,Child
@@ -9971,10 +9971,10 @@ Year,Date Of Incident,Route,Operator,Group Name,Bus Garage,Borough,Injury Result
 2016,01/08/2016,137,Arriva London South,Arriva London,Brixton,Not specified,Injuries treated on scene,Slip Trip Fall,Passenger,Female,Adult
 2016,01/08/2016,137,Arriva London South,Arriva London,Brixton,Not specified,Injuries treated on scene,Slip Trip Fall,Passenger,Male,Adult
 2016,01/08/2016,140,Metroline,Metroline,Harrow Weald,Harrow,Taken to Hospital – Reported Serious Injury or Severity Unknown,Slip Trip Fall,Passenger,Female,Adult
-2016,01/08/2016,141,Arriva London North,Arriva London,Palmers Green,Islington,Injuries treated on scene,Collision Incident,Cyclist ,Male,Adult
+2016,01/08/2016,141,Arriva London North,Arriva London,Palmers Green,Islington,Injuries treated on scene,Collision Incident,Cyclist,Male,Adult
 2016,01/08/2016,141,Arriva London North,Arriva London,Palmers Green,Islington,Injuries treated on scene,Slip Trip Fall,Passenger,Female,Adult
 2016,01/08/2016,141,Arriva London North,Arriva London,Palmers Green,Not specified,Injuries treated on scene,Slip Trip Fall,Passenger,Female,Adult
-2016,01/08/2016,142,Arriva The Shires,Arriva The Shires,Watford,Harrow,Injuries treated on scene,Collision Incident,Cyclist ,Male,Unknown
+2016,01/08/2016,142,Arriva The Shires,Arriva The Shires,Watford,Harrow,Injuries treated on scene,Collision Incident,Cyclist,Male,Unknown
 2016,01/08/2016,142,Arriva The Shires,Arriva The Shires,Watford,Harrow,Injuries treated on scene,Slip Trip Fall,Passenger,Female,Adult
 2016,01/08/2016,142,Arriva The Shires,Arriva The Shires,Watford,None London Borough,Injuries treated on scene,Collision Incident,Passenger,Female,Unknown
 2016,01/08/2016,142,Arriva The Shires,Arriva The Shires,Watford,None London Borough,Injuries treated on scene,Collision Incident,Passenger,Female,Unknown
@@ -10082,7 +10082,7 @@ Year,Date Of Incident,Route,Operator,Group Name,Bus Garage,Borough,Injury Result
 2016,01/08/2016,242,Arriva London North,Arriva London,Clapton,Not specified,Injuries treated on scene,Collision Incident,Passenger,Male,Adult
 2016,01/08/2016,243,Arriva London North,Arriva London,Tottenham,Camden,Taken to Hospital – Reported Serious Injury or Severity Unknown,Slip Trip Fall,Passenger,Female,Child
 2016,01/08/2016,243,Arriva London North,Arriva London,Tottenham,Haringey,Injuries treated on scene,Slip Trip Fall,Passenger,Female,Elderly
-2016,01/08/2016,243,Arriva London North,Arriva London,Tottenham,Not specified,Taken to Hospital – Reported Serious Injury or Severity Unknown,Collision Incident,Cyclist ,Male,Adult
+2016,01/08/2016,243,Arriva London North,Arriva London,Tottenham,Not specified,Taken to Hospital – Reported Serious Injury or Severity Unknown,Collision Incident,Cyclist,Male,Adult
 2016,01/08/2016,245,Metroline,Metroline,Perivale,Barnet,Injuries treated on scene,Slip Trip Fall,Passenger,Male,Adult
 2016,01/08/2016,248,East London,Stagecoach,Rainham (East London Buses),Havering,Injuries treated on scene,Personal Injury,Passenger,Female,Unknown
 2016,01/08/2016,248,East London,Stagecoach,Rainham (East London Buses),Havering,Injuries treated on scene,Slip Trip Fall,Passenger,Female,Unknown
@@ -10095,7 +10095,7 @@ Year,Date Of Incident,Route,Operator,Group Name,Bus Garage,Borough,Injury Result
 2016,01/08/2016,253,Arriva London North,Arriva London,Stamford Hill,Islington,Injuries treated on scene,Slip Trip Fall,Passenger,Male,Unknown
 2016,01/08/2016,253,Arriva London North,Arriva London,Stamford Hill,Not specified,Taken to Hospital – Reported Serious Injury or Severity Unknown,Collision Incident,Pedestrian,Female,Unknown
 2016,01/08/2016,253,Arriva London North,Arriva London,Stamford Hill,Not specified,Taken to Hospital – Reported Serious Injury or Severity Unknown,Slip Trip Fall,Passenger,Female,Elderly
-2016,01/08/2016,254,Arriva London North,Arriva London,Ash Grove (Arriva),Hackney,Injuries treated on scene,Collision Incident,Cyclist ,Male,Adult
+2016,01/08/2016,254,Arriva London North,Arriva London,Ash Grove (Arriva),Hackney,Injuries treated on scene,Collision Incident,Cyclist,Male,Adult
 2016,01/08/2016,255,Arriva London South,Arriva London,Thornton Heath,Wandsworth,Injuries treated on scene,Slip Trip Fall,Passenger,Female,Unknown
 2016,01/08/2016,255,Arriva London South,Arriva London,Thornton Heath,Wandsworth,Injuries treated on scene,Slip Trip Fall,Passenger,Female,Unknown
 2016,01/08/2016,257,London General,Go-Ahead,Northumberland Park,Waltham Forest,Injuries treated on scene,Slip Trip Fall,Passenger,Female,Unknown
@@ -10151,7 +10151,7 @@ Year,Date Of Incident,Route,Operator,Group Name,Bus Garage,Borough,Injury Result
 2016,01/08/2016,321,London Central,Go-Ahead,New Cross,Greenwich,Reported Minor Injury - Treated at Hospital,Collision Incident,3rd Party driver / Occupant,Female,Adult
 2016,01/08/2016,322,London General,Go-Ahead,Stockwell,Lambeth,Injuries treated on scene,Personal Injury,Passenger,Female,Adult
 2016,01/08/2016,323,East London,Stagecoach,West Ham,Tower Hamlets,Injuries treated on scene,Assault,Bus Driver,Male,Adult
-2016,01/08/2016,323,East London,Stagecoach,West Ham,Tower Hamlets,Reported Minor Injury - Treated at Hospital,Collision Incident,Cyclist ,Male,Adult
+2016,01/08/2016,323,East London,Stagecoach,West Ham,Tower Hamlets,Reported Minor Injury - Treated at Hospital,Collision Incident,Cyclist,Male,Adult
 2016,01/08/2016,326,London Sovereign,London United,Edgware (Sovereign),Barnet,Reported Minor Injury - Treated at Hospital,Personal Injury,Passenger,Male,Elderly
 2016,01/08/2016,332,Metroline,Metroline,Cricklewood,Westminster,Reported Minor Injury - Treated at Hospital,Personal Injury,Passenger,Female,Elderly
 2016,01/08/2016,332,Metroline,Metroline,Cricklewood,Westminster,Taken to Hospital – Reported Serious Injury or Severity Unknown,Slip Trip Fall,Passenger,Male,Adult
@@ -10166,7 +10166,7 @@ Year,Date Of Incident,Route,Operator,Group Name,Bus Garage,Borough,Injury Result
 2016,01/08/2016,341,Arriva London North,Arriva London,Tottenham,Islington,Injuries treated on scene,Slip Trip Fall,Passenger,Male,Unknown
 2016,01/08/2016,343,Abellio London,Abellio,Walworth,Lewisham,Reported Minor Injury - Treated at Hospital,Slip Trip Fall,Passenger,Female,Elderly
 2016,01/08/2016,345,Abellio London,Abellio,Walworth,Southwark,Injuries treated on scene,Collision Incident,Passenger,Female,Adult
-2016,01/08/2016,345,Abellio London,Abellio,Walworth,Southwark,Injuries treated on scene,Collision Incident,Cyclist ,Female,Adult
+2016,01/08/2016,345,Abellio London,Abellio,Walworth,Southwark,Injuries treated on scene,Collision Incident,Cyclist,Female,Adult
 2016,01/08/2016,353,Metrobus,Go-Ahead,Orpington (Metrobus),Bromley,Taken to Hospital – Reported Serious Injury or Severity Unknown,Collision Incident,Passenger,Female,Adult
 2016,01/08/2016,354,Selkent,Stagecoach,Catford,Lewisham,Injuries treated on scene,Personal Injury,Passenger,Female,Adult
 2016,01/08/2016,356,Selkent,Stagecoach,Catford,Lewisham,Injuries treated on scene,Slip Trip Fall,Passenger,Female,Child
@@ -10212,7 +10212,7 @@ Year,Date Of Incident,Route,Operator,Group Name,Bus Garage,Borough,Injury Result
 2016,01/08/2016,444,Tower Transit,Tower Transit,Lea Interchange,Waltham Forest,Injuries treated on scene,Slip Trip Fall,Passenger,Unknown,Unknown
 2016,01/08/2016,450,Arriva London South,Arriva London,Thornton Heath,Croydon,Injuries treated on scene,Collision Incident,3rd Party driver / Occupant,Female,Youth
 2016,01/08/2016,450,Arriva London South,Arriva London,Thornton Heath,Croydon,Injuries treated on scene,Slip Trip Fall,Passenger,Female,Adult
-2016,01/08/2016,450,Arriva London South,Arriva London,Thornton Heath,Croydon,Taken to Hospital – Reported Serious Injury or Severity Unknown,Collision Incident,Cyclist ,Male,Child
+2016,01/08/2016,450,Arriva London South,Arriva London,Thornton Heath,Croydon,Taken to Hospital – Reported Serious Injury or Severity Unknown,Collision Incident,Cyclist,Male,Child
 2016,01/08/2016,450,Arriva London South,Arriva London,Thornton Heath,Lewisham,Injuries treated on scene,Slip Trip Fall,Passenger,Unknown,Child
 2016,01/08/2016,450,Arriva London South,Arriva London,Thornton Heath,Not specified,Injuries treated on scene,Slip Trip Fall,Passenger,Female,Child
 2016,01/08/2016,453,London General,Go-Ahead,Mandela Way (London General),Westminster,Taken to Hospital – Reported Serious Injury or Severity Unknown,Collision Incident,3rd Party driver / Occupant,Male,Adult
@@ -10238,7 +10238,7 @@ Year,Date Of Incident,Route,Operator,Group Name,Bus Garage,Borough,Injury Result
 2016,01/08/2016,B11,London Central,Go-Ahead,Bexleyheath,Greenwich,Injuries treated on scene,Personal Injury,Passenger,Male,Child
 2016,01/08/2016,C1,London United,London United,Shepherds Bush,Kensington & Chelsea,Reported Minor Injury - Treated at Hospital,Slip Trip Fall,Passenger,Female,Elderly
 2016,01/08/2016,C11,Metroline,Metroline,Cricklewood,Camden,Taken to Hospital – Reported Serious Injury or Severity Unknown,Slip Trip Fall,Passenger,Female,Elderly
-2016,01/08/2016,D3,East London,Stagecoach,West Ham,Tower Hamlets,Injuries treated on scene,Collision Incident,Cyclist ,Male,Child
+2016,01/08/2016,D3,East London,Stagecoach,West Ham,Tower Hamlets,Injuries treated on scene,Collision Incident,Cyclist,Male,Child
 2016,01/08/2016,D8,Docklands Buses,Go-Ahead,Silvertown,Newham,Reported Minor Injury - Treated at Hospital,Collision Incident,Pedestrian,Female,Adult
 2016,01/08/2016,E2,Metroline,Metroline,Brentford,Ealing,Injuries treated on scene,Slip Trip Fall,Passenger,Female,Adult
 2016,01/08/2016,E3,London United,London United,Stamford Brook,Ealing,Injuries treated on scene,Personal Injury,Passenger,Male,Adult
@@ -10350,7 +10350,7 @@ Year,Date Of Incident,Route,Operator,Group Name,Bus Garage,Borough,Injury Result
 2016,01/09/2016,36,London Central,Go-Ahead,New Cross,Southwark,Injuries treated on scene,Personal Injury,Passenger,Female,Adult
 2016,01/09/2016,36,London Central,Go-Ahead,New Cross,Westminster,Injuries treated on scene,Personal Injury,Passenger,Female,Adult
 2016,01/09/2016,36,London Central,Go-Ahead,New Cross,Westminster,Reported Minor Injury - Treated at Hospital,Slip Trip Fall,Passenger,Female,Adult
-2016,01/09/2016,37,London Central,Go-Ahead,Peckham,Southwark,Reported Minor Injury - Treated at Hospital,Collision Incident,Cyclist ,Male,Adult
+2016,01/09/2016,37,London Central,Go-Ahead,Peckham,Southwark,Reported Minor Injury - Treated at Hospital,Collision Incident,Cyclist,Male,Adult
 2016,01/09/2016,38,Arriva London North,Arriva London,Clapton,Hackney,Injuries treated on scene,Collision Incident,Passenger,Female,Adult
 2016,01/09/2016,38,Arriva London North,Arriva London,Clapton,Not specified,Injuries treated on scene,Personal Injury,Passenger,Male,Unknown
 2016,01/09/2016,38,Arriva London North,Arriva London,Clapton,Westminster,Injuries treated on scene,Slip Trip Fall,Passenger,Female,Unknown
@@ -10363,7 +10363,7 @@ Year,Date Of Incident,Route,Operator,Group Name,Bus Garage,Borough,Injury Result
 2016,01/09/2016,45,London Central,Go-Ahead,Camberwell,Lambeth,Injuries treated on scene,Slip Trip Fall,Passenger,Male,Unknown
 2016,01/09/2016,45,London Central,Go-Ahead,Camberwell,Southwark,Taken to Hospital – Reported Serious Injury or Severity Unknown,Collision Incident,Pedestrian,Male,Adult
 2016,01/09/2016,47,Selkent,Stagecoach,Catford,Lewisham,Injuries treated on scene,Personal Injury,Passenger,Male,Child
-2016,01/09/2016,47,Selkent,Stagecoach,Catford,Southwark,Injuries treated on scene,Collision Incident,Cyclist ,Male,Youth
+2016,01/09/2016,47,Selkent,Stagecoach,Catford,Southwark,Injuries treated on scene,Collision Incident,Cyclist,Male,Youth
 2016,01/09/2016,50,Arriva London South,Arriva London,Brixton,Lambeth,Injuries treated on scene,Slip Trip Fall,Passenger,Female,Adult
 2016,01/09/2016,50,Arriva London South,Arriva London,Brixton,Lambeth,Injuries treated on scene,Slip Trip Fall,Passenger,Female,Child
 2016,01/09/2016,51,Selkent,Stagecoach,Plumstead,Bexley,Injuries treated on scene,Slip Trip Fall,Passenger,Male,Elderly
@@ -10373,7 +10373,7 @@ Year,Date Of Incident,Route,Operator,Group Name,Bus Garage,Borough,Injury Result
 2016,01/09/2016,52,Metroline,Metroline,Willesden,Westminster,Injuries treated on scene,Slip Trip Fall,Passenger,Female,Elderly
 2016,01/09/2016,53,Selkent,Stagecoach,Plumstead,Greenwich,Injuries treated on scene,Collision Incident,Pedestrian,Male,Unknown
 2016,01/09/2016,53,Selkent,Stagecoach,Plumstead,Greenwich,Injuries treated on scene,Slip Trip Fall,Passenger,Male,Adult
-2016,01/09/2016,53,Selkent,Stagecoach,Plumstead,Southwark,Injuries treated on scene,Collision Incident,Cyclist ,Male,Unknown
+2016,01/09/2016,53,Selkent,Stagecoach,Plumstead,Southwark,Injuries treated on scene,Collision Incident,Cyclist,Male,Unknown
 2016,01/09/2016,54,Selkent,Stagecoach,Catford,Lewisham,Injuries treated on scene,Personal Injury,Passenger,Female,Unknown
 2016,01/09/2016,54,Selkent,Stagecoach,Catford,Lewisham,Injuries treated on scene,Slip Trip Fall,Passenger,Male,Adult
 2016,01/09/2016,55,East London,Stagecoach,Leyton,Hackney,Injuries treated on scene,Slip Trip Fall,Passenger,Female,Adult
@@ -10382,7 +10382,7 @@ Year,Date Of Incident,Route,Operator,Group Name,Bus Garage,Borough,Injury Result
 2016,01/09/2016,55,East London,Stagecoach,Leyton,Waltham Forest,Injuries treated on scene,Collision Incident,Passenger,Male,Unknown
 2016,01/09/2016,55,East London,Stagecoach,Leyton,Waltham Forest,Injuries treated on scene,Personal Injury,Passenger,Unknown,Unknown
 2016,01/09/2016,55,East London,Stagecoach,Leyton,Westminster,Injuries treated on scene,Personal Injury,Passenger,Female,Unknown
-2016,01/09/2016,55,East London,Stagecoach,Leyton,Westminster,Injuries treated on scene,Personal Injury,Cyclist ,Unknown,Unknown
+2016,01/09/2016,55,East London,Stagecoach,Leyton,Westminster,Injuries treated on scene,Personal Injury,Cyclist,Unknown,Unknown
 2016,01/09/2016,56,East London,Stagecoach,Leyton,Islington,Injuries treated on scene,Slip Trip Fall,Passenger,Unknown,Child
 2016,01/09/2016,57,London General,Go-Ahead,Merton,Lambeth,Injuries treated on scene,Slip Trip Fall,Passenger,Female,Child
 2016,01/09/2016,59,Arriva London South,Arriva London,Brixton,Lambeth,Injuries treated on scene,Slip Trip Fall,Passenger,Female,Adult
@@ -10482,7 +10482,7 @@ Year,Date Of Incident,Route,Operator,Group Name,Bus Garage,Borough,Injury Result
 2016,01/09/2016,120,London United,London United,Hounslow,Hounslow,Injuries treated on scene,Slip Trip Fall,Passenger,Male,Adult
 2016,01/09/2016,120,London United,London United,Hounslow,Hounslow,Reported Minor Injury - Treated at Hospital,Slip Trip Fall,Passenger,Female,Child
 2016,01/09/2016,120,London United,London United,Hounslow,Hounslow,Reported Minor Injury - Treated at Hospital,Slip Trip Fall,Passenger,Female,Elderly
-2016,01/09/2016,122,Selkent,Stagecoach,Plumstead,Greenwich,Injuries treated on scene,Collision Incident,Cyclist ,Male,Adult
+2016,01/09/2016,122,Selkent,Stagecoach,Plumstead,Greenwich,Injuries treated on scene,Collision Incident,Cyclist,Male,Adult
 2016,01/09/2016,122,Selkent,Stagecoach,Plumstead,Greenwich,Injuries treated on scene,Personal Injury,Bus Driver,Male,Adult
 2016,01/09/2016,122,Selkent,Stagecoach,Plumstead,Greenwich,Injuries treated on scene,Personal Injury,Passenger,Male,Child
 2016,01/09/2016,122,Selkent,Stagecoach,Plumstead,Greenwich,Injuries treated on scene,Slip Trip Fall,Passenger,Unknown,Unknown
@@ -10526,7 +10526,7 @@ Year,Date Of Incident,Route,Operator,Group Name,Bus Garage,Borough,Injury Result
 2016,01/09/2016,143,Metroline,Metroline,Cricklewood,Barnet,Injuries treated on scene,Collision Incident,Passenger,Unknown,Unknown
 2016,01/09/2016,143,Metroline,Metroline,Cricklewood,Barnet,Injuries treated on scene,Slip Trip Fall,Passenger,Female,Adult
 2016,01/09/2016,143,Metroline,Metroline,Cricklewood,Islington,Reported Minor Injury - Treated at Hospital,Slip Trip Fall,Passenger,Female,Elderly
-2016,01/09/2016,144,Arriva London North,Arriva London,Wood Green,Haringey,Taken to Hospital – Reported Serious Injury or Severity Unknown,Collision Incident,Cyclist ,Male,Adult
+2016,01/09/2016,144,Arriva London North,Arriva London,Wood Green,Haringey,Taken to Hospital – Reported Serious Injury or Severity Unknown,Collision Incident,Cyclist,Male,Adult
 2016,01/09/2016,144,Arriva London North,Arriva London,Wood Green,Not specified,Injuries treated on scene,Slip Trip Fall,Passenger,Male,Adult
 2016,01/09/2016,148,London United,London United,Shepherds Bush,Southwark,Injuries treated on scene,Slip Trip Fall,Passenger,Female,Adult
 2016,01/09/2016,149,Arriva London North,Arriva London,Tottenham,City of London,Taken to Hospital – Reported Serious Injury or Severity Unknown,Slip Trip Fall,Passenger,Female,Adult
@@ -10640,8 +10640,8 @@ Year,Date Of Incident,Route,Operator,Group Name,Bus Garage,Borough,Injury Result
 2016,01/09/2016,211,Abellio London,Abellio,Battersea (Abellio London),Kensington & Chelsea,Taken to Hospital – Reported Serious Injury or Severity Unknown,Slip Trip Fall,Passenger,Female,Youth
 2016,01/09/2016,213,London General,Go-Ahead,Sutton,Sutton,Injuries treated on scene,Collision Incident,Passenger,Male,Adult
 2016,01/09/2016,213,London General,Go-Ahead,Sutton,Sutton,Injuries treated on scene,Slip Trip Fall,Passenger,Female,Adult
-2016,01/09/2016,214,Metroline,Metroline,King'S Cross,Camden,Injuries treated on scene,Collision Incident,Cyclist ,Female,Adult
-2016,01/09/2016,214,Metroline,Metroline,King'S Cross,Camden,Injuries treated on scene,Collision Incident,Cyclist ,Female,Adult
+2016,01/09/2016,214,Metroline,Metroline,King'S Cross,Camden,Injuries treated on scene,Collision Incident,Cyclist,Female,Adult
+2016,01/09/2016,214,Metroline,Metroline,King'S Cross,Camden,Injuries treated on scene,Collision Incident,Cyclist,Female,Adult
 2016,01/09/2016,216,London United,London United,Fulwell (London United),None London Borough,Injuries treated on scene,Slip Trip Fall,Passenger,Female,Adult
 2016,01/09/2016,217,Metroline,Metroline,Potters Bar,None London Borough,Injuries treated on scene,Slip Trip Fall,Passenger,Unknown,Child
 2016,01/09/2016,217,Metroline,Metroline,Potters Bar,None London Borough,Injuries treated on scene,Slip Trip Fall,Passenger,Unknown,Child
@@ -10673,7 +10673,7 @@ Year,Date Of Incident,Route,Operator,Group Name,Bus Garage,Borough,Injury Result
 2016,01/09/2016,243,Arriva London North,Arriva London,Tottenham,Not specified,Taken to Hospital – Reported Serious Injury or Severity Unknown,Slip Trip Fall,Passenger,Male,Child
 2016,01/09/2016,245,Metroline,Metroline,Perivale,Barnet,Injuries treated on scene,Personal Injury,Passenger,Female,Child
 2016,01/09/2016,245,Metroline,Metroline,Perivale,Brent,Injuries treated on scene,Collision Incident,Passenger,Female,Youth
-2016,01/09/2016,245,Metroline,Metroline,Perivale,Brent,Reported Minor Injury - Treated at Hospital,Collision Incident,Cyclist ,Male,Adult
+2016,01/09/2016,245,Metroline,Metroline,Perivale,Brent,Reported Minor Injury - Treated at Hospital,Collision Incident,Cyclist,Male,Adult
 2016,01/09/2016,248,East London,Stagecoach,Rainham (East London Buses),Havering,Injuries treated on scene,Slip Trip Fall,Passenger,Female,Unknown
 2016,01/09/2016,248,East London,Stagecoach,Rainham (East London Buses),Havering,Injuries treated on scene,Slip Trip Fall,Passenger,Male,Unknown
 2016,01/09/2016,249,London General,Go-Ahead,Stockwell,Lambeth,Injuries treated on scene,Personal Injury,Passenger,Female,Unknown
@@ -10782,12 +10782,12 @@ Year,Date Of Incident,Route,Operator,Group Name,Bus Garage,Borough,Injury Result
 2016,01/09/2016,418,H R Richmond,Quality Line,Epsom,Kingston upon Thames,Injuries treated on scene,Personal Injury,3rd Party driver / Occupant,Male,Child
 2016,01/09/2016,419,London United,London United,Shepherds Bush,Hammersmith & Fulham,Injuries treated on scene,Slip Trip Fall,Passenger,Female,Elderly
 2016,01/09/2016,419,London United,London United,Shepherds Bush,Hammersmith & Fulham,Reported Minor Injury - Treated at Hospital,Slip Trip Fall,Passenger,Female,Elderly
-2016,01/09/2016,419,London United,London United,Shepherds Bush,Richmond Upon Thames,Injuries treated on scene,Collision Incident,Cyclist ,Male,Adult
-2016,01/09/2016,419,London United,London United,Shepherds Bush,Richmond Upon Thames,Injuries treated on scene,Collision Incident,Cyclist ,Male,Adult
+2016,01/09/2016,419,London United,London United,Shepherds Bush,Richmond Upon Thames,Injuries treated on scene,Collision Incident,Cyclist,Male,Adult
+2016,01/09/2016,419,London United,London United,Shepherds Bush,Richmond Upon Thames,Injuries treated on scene,Collision Incident,Cyclist,Male,Adult
 2016,01/09/2016,422,London General,Go-Ahead,Bexleyheath,Greenwich,Injuries treated on scene,Personal Injury,Passenger,Female,Adult
 2016,01/09/2016,422,London General,Go-Ahead,Bexleyheath,Greenwich,Taken to Hospital – Reported Serious Injury or Severity Unknown,Slip Trip Fall,Passenger,Female,Elderly
 2016,01/09/2016,425,Tower Transit,Tower Transit,Lea Interchange,Hackney,Injuries treated on scene,Assault,Bus Driver,Male,Adult
-2016,01/09/2016,430,London General,Go-Ahead,Putney,Hammersmith & Fulham,Injuries treated on scene,Collision Incident,Cyclist ,Male,Adult
+2016,01/09/2016,430,London General,Go-Ahead,Putney,Hammersmith & Fulham,Injuries treated on scene,Collision Incident,Cyclist,Male,Adult
 2016,01/09/2016,432,London General,Go-Ahead,Stockwell,Lambeth,Injuries treated on scene,Personal Injury,Passenger,Female,Elderly
 2016,01/09/2016,436,London Central,Go-Ahead,New Cross,Lewisham,Injuries treated on scene,Personal Injury,Passenger,Female,Adult
 2016,01/09/2016,436,London Central,Go-Ahead,New Cross,Southwark,Injuries treated on scene,Slip Trip Fall,Passenger,Male,Adult
@@ -10848,7 +10848,7 @@ Year,Date Of Incident,Route,Operator,Group Name,Bus Garage,Borough,Injury Result
 2016,01/09/2016,N87,London General,Go-Ahead,Stockwell,Merton,Injuries treated on scene,Activity Incident Event,Pedestrian,Male,Adult
 2016,01/09/2016,N91,Metroline,Metroline,Potters Bar,Islington,Injuries treated on scene,Personal Injury,Passenger,Female,Adult
 2016,01/09/2016,OOS,Arriva The Shires,Arriva The Shires,Watford,Brent,Taken to Hospital – Reported Serious Injury or Severity Unknown,Collision Incident,Pedestrian,Female,Adult
-2016,01/09/2016,OOS,London Central,Go-Ahead,Camberwell,Lambeth,Taken to Hospital – Reported Serious Injury or Severity Unknown,Assault,Cyclist ,Male,Unknown
+2016,01/09/2016,OOS,London Central,Go-Ahead,Camberwell,Lambeth,Taken to Hospital – Reported Serious Injury or Severity Unknown,Assault,Cyclist,Male,Unknown
 2016,01/09/2016,OOS,London Central,Go-Ahead,New Cross,Lewisham,Injuries treated on scene,Slip Trip Fall,Operational Staff,Male,Adult
 2016,01/09/2016,OOS,London Central,Go-Ahead,New Cross,Lewisham,Injuries treated on scene,Slip Trip Fall,Operational Staff,Male,Adult
 2016,01/09/2016,OOS,London General,Go-Ahead,Northumberland Park,None London Borough,Injuries treated on scene,Slip Trip Fall,Bus Driver,Male,Adult
