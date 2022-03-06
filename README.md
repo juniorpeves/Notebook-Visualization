@@ -8,3 +8,4 @@ Extracción de datos y ejemplos de archivos, Limpieza de datos, Exploración de 
 ### Buenas practias
 ALertas, automatización y live reporting, Eficiencia, max profit y min cost
 
+[Enlace al notebook](https://github.com/juniorpeves/notebook-accidentes-londres/blob/main/ProyectoFinal-BI.ipynb)
