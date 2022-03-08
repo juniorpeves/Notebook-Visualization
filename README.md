@@ -1,4 +1,4 @@
-# Notebook de Accidentes en Londres por Linea de Busses
+# Notebook de Vializaciones con python, pandas, matplotlib, geopandas, etc.
 
 Repositorio de Proyecto final de Curso de Business Intelligence: Utilidad y Áreas de Oportunidad. Usando los conceptos iniciales:
 
